@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyLogin</string>
+    <string name="google_client_id">887431306582-oo3u40sv63rr4a0ddo33ec6i75ssct0p.apps.googleusercontent.com</string>
+    <string name="google_client_secret">-zQ9EBbVrzv25E7CwSb9_rb5</string>
+    <string name="facebook_app_id">439624810701544</string>
+    <string name="fb_login_protocol_scheme">fb439624810701544</string>
+</resources>
